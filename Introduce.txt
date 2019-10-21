@@ -1,6 +1,8 @@
 #message	
 
-#안녕하세요, developerkong 입니다
+#Hellow
+#c# developer kong
+
 
 #contact
 #E-mail : developerkong0731@gmail.com
